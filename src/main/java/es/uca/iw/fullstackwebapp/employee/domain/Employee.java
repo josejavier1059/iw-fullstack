@@ -11,6 +11,7 @@ public class Employee {
 
     public enum EmployeeType {
         FINANCE,
+        
         COSTUME_SUPPORT,
         MARKETING
     }

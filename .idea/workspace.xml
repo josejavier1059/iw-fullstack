@@ -5,47 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="745871e0-02f2-401e-86c9-45e56ac58637" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/employee/domain/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/employee/repositories/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/employee/services/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/employee/views/EmployeeChangePasswordView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/employee/views/InformacionEmployeeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/option/domain/Option.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/option/repositories/OptionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/option/services/OptionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/option/views/OptionView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/DatabasePopulator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/book/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/book/BookRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/book/BookService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/book/BookView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/user/controllers/UserRestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/user/domain/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/user/repositories/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/user/services/EmailRealService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/user/services/EmailService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/user/services/UserManagementService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/user/views/UserActivationView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/user/views/UserRegistrationView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/RunCucumberTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/EmailFakeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/ObjectMother.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/e2e/UserRegistrationActivationE2E.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/it/UserActivationViewIT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/it/UserManagementServiceIT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/it/UserRestControllerIT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/uat/UserRegistrationAndActivationDefinitions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/unit/UserActivationViewTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/unit/UserManagementServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/unit/UserRepositoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/unit/UserRestControllerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/uca/iw/fullstackwebapp/user/unit/UserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/cucumber.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/es/uca/iw/fullstackwebapp/user/uat/UserRegistrationAndActivation.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/employee/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/employee/domain/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +86,7 @@
       <workItem from="1701795473708" duration="1937000" />
       <workItem from="1704185170632" duration="2269000" />
       <workItem from="1704217825385" duration="824000" />
-      <workItem from="1704220069643" duration="1184000" />
+      <workItem from="1704220069643" duration="1472000" />
     </task>
     <servers />
   </component>
