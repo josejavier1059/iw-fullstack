@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/jose/Desktop/idkloko+/Codigo2/Paragithubbaby/todocambiadotocaborrar/iw-fullstack/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/jose/Desktop/idkloko+/Codigo2/Paragithubbaby/todocambiadotocaborrar/iw-fullstack/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/jose/Desktop/idkloko+/Codigo2/Paragithubbaby/todocambiadotocaborrar/iw-fullstack/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\jose\\Desktop\\idkloko+\\Codigo2\\Paragithubbaby\\todocambiadotocaborrar\\iw-fullstack\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\jose\\Desktop\\idkloko+\\Codigo2\\Paragithubbaby\\todocambiadotocaborrar\\iw-fullstack\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/jose/Desktop/idkloko+/Codigo2/Paragithubbaby/todocambiadotocaborrar/iw-fullstack/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/jose/Desktop/idkloko+/Codigo2/Paragithubbaby/todocambiadotocaborrar/iw-fullstack/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/jose/Desktop/idkloko+/Codigo2/Paragithubbaby/todocambiadotocaborrar/iw-fullstack/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\jose\\Desktop\\idkloko+\\Codigo2\\Paragithubbaby\\todocambiadotocaborrar\\iw-fullstack\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
