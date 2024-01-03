@@ -4,32 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="745871e0-02f2-401e-86c9-45e56ac58637" name="Changes" comment="">
+    <list default="true" id="8d0b1105-85b2-4ccb-838e-9a54de2a28e9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/employee/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/uca/iw/fullstackwebapp/employee/domain/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/WebApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/WebApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/domain/Employee$EmployeeType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/domain/Employee$EmployeeType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/domain/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/domain/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/repositories/EmployeeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/repositories/EmployeeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/services/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/services/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/views/EmployeeChangePasswordView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/views/EmployeeChangePasswordView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/views/InformacionEmployeeView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/employee/views/InformacionEmployeeView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/option/domain/Option.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/option/domain/Option.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/option/services/OptionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/option/services/OptionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/option/views/OptionView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/es/uca/iw/fullstackwebapp/option/views/OptionView.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2Y2lKUI3qQrr7SH46fi8oqvA9y6" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2aSFjOvHRPb7c8ukOmzaG6KYNjs" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -47,61 +51,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/jose/Desktop/UNIVERSIDAD/IW/EstudioIwDeCaraAlExamen/Codigo2/iw-fullstack/pom.xml",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
+    "last_opened_file_path": "C:/Users/jose/Desktop/idkloko+/Codigo2/Paragithubbaby/todocambiadotocaborrar/iw-fullstack",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.2.4\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="fullstackwebapp" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="es.uca.iw.fullstackwebapp.WebApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="745871e0-02f2-401e-86c9-45e56ac58637" name="Changes" comment="" />
-      <created>1699731499056</created>
+      <changelist id="8d0b1105-85b2-4ccb-838e-9a54de2a28e9" name="Changes" comment="" />
+      <created>1704304207900</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1699731499056</updated>
-      <workItem from="1699731500037" duration="5873000" />
-      <workItem from="1699799286946" duration="9898000" />
-      <workItem from="1699828406348" duration="7836000" />
-      <workItem from="1699883868014" duration="1484000" />
-      <workItem from="1699907178816" duration="8459000" />
-      <workItem from="1700606520918" duration="1829000" />
-      <workItem from="1700673421780" duration="10795000" />
-      <workItem from="1701795473708" duration="1937000" />
-      <workItem from="1704185170632" duration="2269000" />
-      <workItem from="1704217825385" duration="824000" />
-      <workItem from="1704220069643" duration="1472000" />
+      <updated>1704304207900</updated>
+      <workItem from="1704304209011" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
